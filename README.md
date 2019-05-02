@@ -1,4 +1,4 @@
-# Very short description of the package
+# Short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/pbmengine/:package_name.svg?style=flat-square)](https://packagist.org/packages/pbmengine/:package_name)
 [![Build Status](https://img.shields.io/travis/pbmengine/:package_name/master.svg?style=flat-square)](https://travis-ci.org/pbmengine/:package_name)
